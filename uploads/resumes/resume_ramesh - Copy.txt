@@ -1,0 +1,4 @@
+Ramesh Kumar
+Experienced backend developer with 6 years experience.
+Worked extensively with Python, Django, PostgreSQL and Redis.
+Dockerized applications and deployed to AWS EC2. Familiar with Git, unit testing and Agile.

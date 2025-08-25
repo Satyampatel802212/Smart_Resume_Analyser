@@ -1,0 +1,9 @@
+Satyam Patel
+Email: satyam@example.com | Phone: +91-9876543210 | LinkedIn: https://www.linkedin.com/in/satyam
+
+Profile:
+Backend Java developer with 3 years experience. Built parcel management and booking services using Java, Servlets, JSP, Spring Boot, and MySQL. Familiar with Docker and AWS.
+
+Skills:
+Java, Spring Boot, Servlets, JSP, MySQL, Docker, AWS, Git, Maven, Postman
+

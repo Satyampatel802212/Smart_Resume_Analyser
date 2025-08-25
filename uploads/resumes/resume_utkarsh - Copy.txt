@@ -1,0 +1,6 @@
+Utkarsh Kumar 
+
+ Senior Backend Engineer with 5+ years of experience in Python, REST APIs, microservices, and cloud platforms.
+Required skills: Java, Springboot, react, SQL, Python, Django or Flask, PostgreSQL, Redis, Docker, Kubernetes, AWS (EC2, S3, RDS), CI/CD pipelines, Git, unit testing, SQL.
+Experience building scalable microservices, event-driven architecture, message queues (RabbitMQ/Kafka) is a plus.
+Good communication skills and experience with Agile/Scrum are preferred.

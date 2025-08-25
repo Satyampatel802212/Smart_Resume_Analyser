@@ -1,0 +1,4 @@
+Sita Sharma
+Software engineer focused on frontend and devops.
+Skilled in JavaScript, React, Node.js. Worked on Docker, CI/CD and AWS S3.
+Some exposure to Kafka and microservices patterns.
